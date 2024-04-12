@@ -3,7 +3,7 @@ ANN regression model to predict the net hourly electrical energy output (EP) of 
 using dataset from UC Irvine Repository https://archive.ics.uci.edu/dataset/294/combined+cycle+power+plant 
 (credit : www.superdatascience.com)
 
-# Data :
+### Data :
 * Temperature (T)
 * Ambient Pressure (AP)
 * Relative Humidity (RH)
