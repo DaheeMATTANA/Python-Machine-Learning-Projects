@@ -9,5 +9,6 @@ Machine Learning Python Projects
 * [Restaurant Review NLP](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/tree/main/Restaurant%20Review%20NLP)
 * [Market Basket Optimization](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/tree/main/Market%20Basket%20Optimization)
 * [Wine Preference Classification](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/tree/main/Wine%20Preference%20Classification)
+* [Image Classification Project](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/tree/main/Image%20Classification%20Project)
 * [Mall Customers Clustering](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/tree/main/Mall%20Customers%20Clustering)
 * [Salary Prediction Project](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/tree/main/Salary%20Prediction%20Project)
