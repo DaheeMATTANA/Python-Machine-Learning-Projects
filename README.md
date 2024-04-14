@@ -14,6 +14,7 @@ Machine Learning Python Projects
 * [Mall Customers Clustering](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Mall%20Customers%20Clustering/Mall%20Customers%20Clustering.ipynb)
 * [Titanic Passengers Analysis](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Titanic%20Passengers%20Analysis/Titanic%20Passengers%20Analysis.ipynb)
 * [US Housing Price Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/US%20Housing%20Price%20Prediction/US%20Housing%20Price%20Prediction.ipynb)
+* [Breast Cancer Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Prediction/Breast%20Cancer%20Prediction.ipynb)
 * [User Advert Engagement Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/User%20Advert%20Engagement%20Prediction/User%20Advert%20Engagement%20Prediction.ipynb)
 * [Salary Prediction Project](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Salary%20Prediction%20Project/Salary%20Prediction.ipynb)
 
