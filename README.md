@@ -11,4 +11,5 @@ Machine Learning Python Projects
 * [Wine Preference Classification](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Wine%20Preference%20Classification/Wine%20Preference%20Classification.ipynb)
 * [Image Classification Project](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Image%20Classification%20Project/Image%20Classification%20Project.ipynb)
 * [Mall Customers Clustering](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Mall%20Customers%20Clustering/Mall%20Customers%20Clustering.ipynb)
+* [US Housing Price Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/US%20Housing%20Price%20Prediction/US%20Housing%20Price%20Prediction.ipynb)
 * [Salary Prediction Project](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Salary%20Prediction%20Project/Salary%20Prediction.ipynb)
