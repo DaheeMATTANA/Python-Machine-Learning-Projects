@@ -6,6 +6,7 @@ Machine Learning Python Projects
 * [Customer Churn Modeling](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Customer%20Churn%20Modeling/Customer%20Churn%20Modeling.ipynb)
 * [Multivariate Advertisement Version Testing](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Multivariate%20Advertisement%20Version%20Testing/Multivariate%20Advertisement%20Version%20Testing.ipynb)
 * [Power Plant Energy Output Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Power%20Plant%20Energy%20Output%20Prediction/Power%20Plant%20Energy%20Output%20Prediction.ipynb)
+* [Spam-Ham Classifier](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Spam-Ham%20Classifier/Spam-Ham%20Classifier.ipynb)
 * [Restaurant Review NLP](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Restaurant%20Review%20NLP/Restaurant%20Review%20NLP.ipynb)
 * [Market Basket Optimization](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Market%20Basket%20Optimization/Market%20Basket%20Optimization.ipynb)
 * [Wine Preference Classification](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Wine%20Preference%20Classification/Wine%20Preference%20Classification.ipynb)
