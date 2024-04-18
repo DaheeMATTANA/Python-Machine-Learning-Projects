@@ -5,7 +5,6 @@ Unsupervised clustering model to cluster universities into 2 groups : Public or 
 ### Data :
 * Private A factor with levels No and Yes indicating private or public university
 (Data set includes labels, but we will NOT include in the model)
-<br>
 * Apps Number of applications received
 * Accept Number of applications accepted
 * Enroll Number of new students enrolled
