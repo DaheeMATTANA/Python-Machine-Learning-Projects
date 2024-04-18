@@ -12,7 +12,7 @@ Machine Learning Python Projects
 * [Market Basket Optimization](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Market%20Basket%20Optimization/Market%20Basket%20Optimization.ipynb)
 * [Wine Preference Classification](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Wine%20Preference%20Classification/Wine%20Preference%20Classification.ipynb)
 * [Image Classification Project](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Image%20Classification%20Project/Image%20Classification%20Project.ipynb)
-* [E-Store Customer Spending Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/E-Store%20Customer%20Spending%20Prediction/E-Store%20Customer%20Spending%20Prediction.ipynb)+
+* [E-Store Customer Spending Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/E-Store%20Customer%20Spending%20Prediction/E-Store%20Customer%20Spending%20Prediction.ipynb)
 * [Private-Public University Clustering](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Private-Public%20Universitiy%20Clustering/Private-Public%20University%20Clustering.ipynb)
 * [Iris Flower Discriminant Analysis](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Iris%20Flower%20Discriminant%20Analysis/Iris%20Flower%20Discriminant%20Analysis.ipynb)
 * [Mall Customers Clustering](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Mall%20Customers%20Clustering/Mall%20Customers%20Clustering.ipynb)
