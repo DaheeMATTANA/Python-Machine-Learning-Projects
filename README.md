@@ -19,7 +19,6 @@ Machine Learning Python Projects
 * [Titanic Passengers Analysis](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Titanic%20Passengers%20Analysis/Titanic%20Passengers%20Analysis.ipynb)
 * [US Housing Price Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/US%20Housing%20Price%20Prediction/US%20Housing%20Price%20Prediction.ipynb)
 * [Breast Cancer Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Prediction/Breast%20Cancer%20Prediction.ipynb)
-* [Breast Cancer SVM Model](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Prediction/Breast%20Cancer%20Prediction%20SVM.ipynb)
 * [User Advert Engagement Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/User%20Advert%20Engagement%20Prediction/User%20Advert%20Engagement%20Prediction.ipynb)
 * [Kyphosis Classification](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Kyphosis%20Classification/Kyphosis%20Classification.ipynb)
 * [Confidential Data Classification](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Confidential%20Data%20Classification/Confidential%20Data%20Classification.ipynb)
