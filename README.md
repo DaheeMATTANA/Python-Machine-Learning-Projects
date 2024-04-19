@@ -2,6 +2,7 @@
 Machine Learning Python Projects
 
 ### Projects List (Links leading directly to code notebooks)
+* [Breast Cancer Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Prediction/Breast%20Cancer%20Prediction.ipynb)
 * [Customer Classification for New SUV](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Customer%20Classification%20for%20New%20SUV/Customer%20Classification%20for%20New%20SUV.ipynb)
 * [Customer Churn Modeling](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Customer%20Churn%20Modeling/Customer%20Churn%20Modeling.ipynb)
 * [Lending Club Payback Status Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Lending%20Club%20Payback%20Status%20Prediction/Lending%20Club%20Payback%20Status%20Prediction.ipynb)
@@ -18,7 +19,6 @@ Machine Learning Python Projects
 * [Mall Customers Clustering](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Mall%20Customers%20Clustering/Mall%20Customers%20Clustering.ipynb)
 * [Titanic Passengers Analysis](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Titanic%20Passengers%20Analysis/Titanic%20Passengers%20Analysis.ipynb)
 * [US Housing Price Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/US%20Housing%20Price%20Prediction/US%20Housing%20Price%20Prediction.ipynb)
-* [Breast Cancer Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Prediction/Breast%20Cancer%20Prediction.ipynb)
 * [User Advert Engagement Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/User%20Advert%20Engagement%20Prediction/User%20Advert%20Engagement%20Prediction.ipynb)
 * [Kyphosis Classification](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Kyphosis%20Classification/Kyphosis%20Classification.ipynb)
 * [Confidential Data Classification](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Confidential%20Data%20Classification/Confidential%20Data%20Classification.ipynb)
