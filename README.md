@@ -3,6 +3,7 @@ Machine Learning Python Projects
 
 ### Projects List (Links leading directly to code notebooks)
 * [Breast Cancer Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Prediction/Breast%20Cancer%20Prediction.ipynb)
+* [King County House Sales Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/King%20County%20House%20Sales%20Prediction/King%20County%20House%20Sales%20Prediction.ipynb)
 * [Customer Classification for New SUV](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Customer%20Classification%20for%20New%20SUV/Customer%20Classification%20for%20New%20SUV.ipynb)
 * [Customer Churn Modeling](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Customer%20Churn%20Modeling/Customer%20Churn%20Modeling.ipynb)
 * [Lending Club Payback Status Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Lending%20Club%20Payback%20Status%20Prediction/Lending%20Club%20Payback%20Status%20Prediction.ipynb)
