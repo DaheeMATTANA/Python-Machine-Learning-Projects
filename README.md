@@ -12,6 +12,7 @@ Machine Learning Python Projects
 * [Restaurant Review NLP](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Restaurant%20Review%20NLP/Restaurant%20Review%20NLP.ipynb)
 * [Market Basket Optimization](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Market%20Basket%20Optimization/Market%20Basket%20Optimization.ipynb)
 * [Wine Preference Classification](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Wine%20Preference%20Classification/Wine%20Preference%20Classification.ipynb)
+* [Yelp Review Classification](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Yelp%20Review%20Classification/Yelp%20Review%20Classification.ipynb)
 * [Image Classification Project](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Image%20Classification%20Project/Image%20Classification%20Project.ipynb)
 * [E-Store Customer Spending Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/E-Store%20Customer%20Spending%20Prediction/E-Store%20Customer%20Spending%20Prediction.ipynb)
 * [Private-Public University Clustering](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Private-Public%20Universitiy%20Clustering/Private-Public%20University%20Clustering.ipynb)
