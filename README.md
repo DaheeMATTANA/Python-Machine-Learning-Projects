@@ -3,6 +3,7 @@ Machine Learning Python Projects
 
 ### Projects List (Links leading directly to code notebooks)
 * [Breast Cancer Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Breast%20Cancer%20Prediction/Breast%20Cancer%20Prediction.ipynb)
+* [Automobile Price Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Automobile%20Price%20Prediction/Automobile%20Price%20Prediction.ipynb)
 * [King County House Sales Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/King%20County%20House%20Sales%20Prediction/King%20County%20House%20Sales%20Prediction.ipynb)
 * [Customer Classification for New SUV](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Customer%20Classification%20for%20New%20SUV/Customer%20Classification%20for%20New%20SUV.ipynb)
 * [Customer Churn Modeling](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Customer%20Churn%20Modeling/Customer%20Churn%20Modeling.ipynb)
@@ -25,5 +26,6 @@ Machine Learning Python Projects
 * [Kyphosis Classification](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Kyphosis%20Classification/Kyphosis%20Classification.ipynb)
 * [Confidential Data Classification](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Confidential%20Data%20Classification/Confidential%20Data%20Classification.ipynb)
 * [Salary Prediction Project](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Salary%20Prediction%20Project/Salary%20Prediction.ipynb)
+* [Insurance Claim Prediction](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Insurance%20Claim%20Prediction/Insurance%20Claim%20Prediction.ipynb)
 * [Content-Based Film Recommender System](https://github.com/DaheeMATTANA/Python-Machine-Learning-Projects/blob/main/Content-Based%20Film%20Recommender%20System/Content-Based%20Film%20Recommender%20System.ipynb)
 
