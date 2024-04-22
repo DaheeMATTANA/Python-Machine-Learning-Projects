@@ -1,7 +1,8 @@
 # Automobile Price Prediction
-Regression models to predict automobile prices based on features of the automobile (credit : www.superdatascience.com)
+Regression models to predict automobile prices based on features of the automobile
 
 ### Data :
+(credit : www.superdatascience.com)
 1985 Ward's Automotive Yearbook
 * symboling : -3, -2, -1, 0, 1, 2, 3
 * normalized-losses : continuous from 65 to 256
